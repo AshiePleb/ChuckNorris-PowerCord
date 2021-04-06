@@ -32,7 +32,7 @@ module.exports = class ChuckNorrisPlugin extends Plugin {
     };
   }
   
-  async cn() {
+  async info() {
     return {
       send: false,
       result: {
