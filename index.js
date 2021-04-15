@@ -22,6 +22,5 @@ module.exports = class ChuckNorrisPlugin extends Plugin {
       send: true,
       result: `${data.body.value}`
     };
-  }
-  
+  } 
   };
