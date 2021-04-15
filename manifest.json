@@ -1,6 +1,6 @@
 {
   "name": "ChuckNorris",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pulls a random joke from the Chuck Norris API and sends it in chat.",
   "author": "AshiePleb",
   "permissions": ["ext_api"],
